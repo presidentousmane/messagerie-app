@@ -1,0 +1,15 @@
+{
+    "name": "messenger-app/server",
+    "description": "Backend PHP pour l'application de messagerie instantanée style WhatsApp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ousmane Koné",
+            "email": "konet.ousmane@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}
